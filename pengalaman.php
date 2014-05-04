@@ -10,7 +10,7 @@
 	<table width="518" height="318" border="0" align="center">
       <tr>
         <td>
-          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px"> cerita saat herei dengan teman2 di batara kami terinvirasi untuk membuat sebuah keterampilan di bidangnya dengan membuatsebuah website yang ala kandarnya</p>
+          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px"> cerita ieu dimana saat bercanda dengan teman-teman di batara, arurang terinvirasi untuk nyieun sebuah keterampilan di bidangna dengan nyieun sebuah website nu ala kandarnya</p>
           <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">ketika melihat sebuah gugulayunan dan sebuah tangkal yang sukar di taeki olleh barudak batara haha &quot;ehh,, terinvirasi&quot; lalu saya betaya pada barudak arek wang ngieun website &quot;, kumaha carana,, &quot;. </p>
           <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">sakiw jawab aya w,,</p>
           <p>&nbsp;</p></td>
